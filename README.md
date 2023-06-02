@@ -13,9 +13,6 @@
 
   </ul>
 <p> During my bootcamp, I've learned to use some languages and technologies, as for example:
-![image](https://github.com/nacho131994/nacho131994/assets/115217643/f3ab21c1-9364-4442-9b42-36a620797cb6)
-![image](https://github.com/nacho131994/nacho131994/assets/115217643/9f9ee6c8-8497-4a21-8e57-485b6a85301e)
-![image](https://github.com/nacho131994/nacho131994/assets/115217643/2454d4db-c0aa-46b9-ae99-04a005b5050d)
 
   
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
