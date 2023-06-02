@@ -27,10 +27,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80">
 </div>
 </br></br></br></br>
-
+<p ><strong><i>My GitHub profile Stats 📈</i></strong></p>
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho131994&theme=white)
  <div>
+  
+  <p ><strong><i>Contact me! 🗣️</i></strong></p>
  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80" height="80">
  <p>https://www.linkedin.com/in/ignaciomu%C3%B1ozmu%C3%B1oz/</p>
 </div>
