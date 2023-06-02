@@ -27,7 +27,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80">
 </div>
 </br></br></br></br>
+<div>
 <p ><strong><i>My GitHub profile Stats 📈</i></strong></p>
+  </div>
+
+
+
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho131994&theme=white)
 
