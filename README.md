@@ -40,7 +40,7 @@
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho131994&theme=white)
 
   
-  <p ><strong>Contact me! 🗣️</strong></p></br></br>
+  <p align="center"><strong>Contact me! 🗣️</strong></p></br></br>
  <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80" height="80">
  <p>https://www.linkedin.com/in/ignaciomu%C3%B1ozmu%C3%B1oz/</p>
 </div>
