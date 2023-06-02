@@ -8,7 +8,7 @@
   <ul>
     <li>Reviewing all the contents of the bootcamp 📚</li>
     <li>Practicing exercises from the academy 🤓</li>
-    <li>Coding some little projects where I can do real web development practice ⌨</li>
+    <li>Coding some little projects where I can do real web development practice 💻</li>
    
 
   </ul>
