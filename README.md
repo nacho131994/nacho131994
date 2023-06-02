@@ -13,7 +13,9 @@
 
   </ul>
 <p> During my bootcamp, I've learned to use some languages and technologies, as for example:
-![image](https://github.com/nacho131994/nacho131994/assets/115217643/3205212a-6986-42ef-8822-1bdfd584d4be)
+<div>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+</div>
 
   
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
