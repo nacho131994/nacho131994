@@ -14,7 +14,7 @@
   </ul>
 <p> During my bootcamp, I've learned to use some languages and technologies, as for example:
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="40" height="40">
 </div>
 
   
