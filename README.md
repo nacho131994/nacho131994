@@ -3,8 +3,9 @@
   
 <h2> Hello everybody! &#128075; My name is Nacho, and I have studied a Full Stack Web Developer bootcamp with 4Geeks Academy. </h2>
 <p>My goal is to develop my skills as a web developer, and get a job as a FrontEnd developer</p></br>
-
+<div>
 <p ><strong><i>What am I doing now?</i></strong></p>
+  </div>
 
 <p> Since I've finished my bootcamp, this is what I am investing my time in:
   <ul>
