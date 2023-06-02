@@ -25,9 +25,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80">
-
 </div>
-
+</br></br></br></br>
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho131994&theme=white)
