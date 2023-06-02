@@ -10,16 +10,14 @@
     <li>Practicing exercises from the academy 🤓</li>
     <li>Coding some little projects where I can do real web development practice 💻</li>
   </ul>
-<p> During my bootcamp, I've learned to use some languages and technologies, as for example:
+<p> During my bootcamp, I've learned to use some languages and technologies, as for example: </br></br>
 <div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="80" height="80"> </br>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="80" height="80"> </br>
-  
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" width="80" height="80"> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original-wordmark.svg" width="80" height="80">
