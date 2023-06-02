@@ -1,4 +1,5 @@
 <h1> Nacho Muñoz Muñoz </h1>
+<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original-wordmark.svg" width="80" height="80">
  :https://www.linkedin.com/in/ignaciomu%C3%B1ozmu%C3%B1oz/
   
 <h2> Hello everybody! &#128075; My name is Nacho, and I have studied a Full Stack Web Developer bootcamp with 4Geeks Academy. </h2>
