@@ -14,3 +14,4 @@
   </ul>
 <p> During my bootcamp, I've learned to use some languages and technologies, as for example:
 
+![image](https://github.com/nacho131994/nacho131994/assets/115217643/170e569a-7bb4-4883-8514-39eed9254617)
