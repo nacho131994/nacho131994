@@ -28,7 +28,7 @@
 
 </div>
 
-  <div style="justify-content:space-between">
+  <div >
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho131994&theme=white)
  </div>
