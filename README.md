@@ -1,12 +1,11 @@
 <h1> Nacho Muñoz Muñoz </h1>
- <div>
- <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80" height="80">
- <p>https://www.linkedin.com/in/ignaciomu%C3%B1ozmu%C3%B1oz/</p>
-</div>
+
   
 <h2> Hello everybody! &#128075; My name is Nacho, and I have studied a Full Stack Web Developer bootcamp with 4Geeks Academy. </h2>
 <p>My goal is to develop my skills as a web developer, and get a job as a FrontEnd developer</p></br>
+
 <p ><strong><i>What am I doing now?</i></strong></p>
+
 <p> Since I've finished my bootcamp, this is what I am investing my time in:
   <ul>
     <li>Reviewing all the contents of the bootcamp 📚</li>
@@ -31,5 +30,8 @@
 
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho131994&theme=white)
-
+ <div>
+ <img src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" width="80" height="80">
+ <p>https://www.linkedin.com/in/ignaciomu%C3%B1ozmu%C3%B1oz/</p>
+</div>
 
