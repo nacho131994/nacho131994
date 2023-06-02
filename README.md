@@ -16,5 +16,5 @@
 
   
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
-  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho131994&theme=blue-green)
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nacho131994&theme=white)
 
