@@ -20,4 +20,6 @@
 ![image](https://github.com/nacho131994/nacho131994/assets/115217643/9dc399ce-1148-4253-a083-44e25f1823cc)
 ![image](https://github.com/nacho131994/nacho131994/assets/115217643/6461bde6-c768-4702-ba48-aa7b602ce2b7)
 
+  
+  ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=nacho131994&show_icons=true)
 
