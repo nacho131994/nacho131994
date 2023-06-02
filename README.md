@@ -13,7 +13,7 @@
 
   </ul>
 <p> During my bootcamp, I've learned to use some languages and technologies, as for example:
-<div>
+<div background="white">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="80" height="80">
