@@ -15,3 +15,9 @@
 <p> During my bootcamp, I've learned to use some languages and technologies, as for example:
 
 ![image](https://github.com/nacho131994/nacho131994/assets/115217643/170e569a-7bb4-4883-8514-39eed9254617)
+![image](https://github.com/nacho131994/nacho131994/assets/115217643/70fa694a-7c50-4ce8-8277-c750f24f27b6)
+  ![image](https://github.com/nacho131994/nacho131994/assets/115217643/77378fe9-6092-4c1c-8cef-9677cb2c9846)
+![image](https://github.com/nacho131994/nacho131994/assets/115217643/9dc399ce-1148-4253-a083-44e25f1823cc)
+![image](https://github.com/nacho131994/nacho131994/assets/115217643/6461bde6-c768-4702-ba48-aa7b602ce2b7)
+
+
