@@ -13,7 +13,7 @@
     <li>Practicing exercises from the academy 🤓</li>
     <li>Coding some little projects where I can do real web development practice 💻</li> 
   </ul> </br></br></br>
- <p><strong><i>Tools and Languages 🔨
+ <p><strong>Tools and Languages 🔨
 <p> During my bootcamp, I've learned to use some languages and technologies, as for example: </br></br>
 <div align="left">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80" height="80">
