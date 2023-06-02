@@ -4,7 +4,7 @@
 <h2> Hello everybody! &#128075; My name is Nacho, and I have studied a Full Stack Web Developer bootcamp with 4Geeks Academy. </h2>
 <p>My goal is to develop my skills as a web developer, and get a job as a FrontEnd developer</p></br>
 <div align="center">
-<p  ><strong>What am I doing now?</strong></p></br></br></br>
+<p  ><strong>What am I doing now?</strong></p></br></br>
   </div>
 
 <p> Since I've finished my bootcamp, this is what I am investing my time in:
@@ -14,7 +14,7 @@
     <li>Coding some little projects where I can do real web development practice 💻</li> 
   </ul> </br></br></br>
   <div align="center">
-  <p align="left"><strong>Tools and Languages 🔨</strong></p>
+  <p ><strong>Tools and Languages 🔨</strong></p>
   </div>
 <p> During my bootcamp, I've learned to use some languages and technologies, as for example: </br></br>
 <div align="left">
@@ -31,7 +31,7 @@
 </div>
 </br></br></br></br>
 <div align="center">
-<p align="left"><strong>My GitHub profile Stats 📈</strong></p>
+<p ><strong>My GitHub profile Stats 📈</strong></p>
   </div>
 
 
