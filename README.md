@@ -16,8 +16,8 @@
   <div align="center">
   <p ><strong>Tools and Languages 🔨</strong></p>
   </div>
-<p> During my bootcamp, I've learned to use some languages and technologies, as for example: </br></br>
-<div align="left">
+<p align="center"> During my bootcamp, I've learned to use some languages and technologies, as for example: </br></br>
+<div align="center">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" width="80" height="80">
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" width="80" height="80">
