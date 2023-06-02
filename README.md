@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="80" height="80">
 </div>
 </br></br></br></br>
-<div align="center">
+<div align="center" color="red">
 <p ><strong>My GitHub profile Stats 📈</strong></p></br></br>
   </div>
 
